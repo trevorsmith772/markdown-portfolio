@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. My
+2. Favorite
+3. Things
